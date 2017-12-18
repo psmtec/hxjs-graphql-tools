@@ -1,3 +1,4 @@
+package graphql;
 
 typedef Opts = {
     typeDefs: Dynamic,
